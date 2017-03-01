@@ -1,0 +1,19 @@
+{
+  "name": "@bnoiz/unrest",
+  "version": "0.0.1",
+  "description": "Angular REST Client",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnoiz/unrest.git"
+  },
+  "author": "bck.n01z@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnoiz/unrest/issues"
+  },
+  "homepage": "https://github.com/bnoiz/unrest#readme"
+}
